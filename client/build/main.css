@@ -1,0 +1,33 @@
+body{
+  font-family: Verdana;
+  /*background: url(http://wallpapercave.com/wp/9nkg2PZ.png);*/
+  /*background: url(http://more-sky.com/data/out/8/IMG_243552.jpg);*/
+  background: url(http://1079638729.rsc.cdn77.org/pic/v2/gallery/preview/fon-yumor-zvezdnye_vojny_star_wars-23069.jpg);
+  background-attachment: fixed;
+}
+
+h4:hover {
+  color: red;
+  /*text-align: center;*/
+}
+
+#next{
+  padding: 10px;
+  height: 100px;
+  width: 150px;
+  border-radius: 10px;
+  font-size: 20px;
+  background-image: url(http://wallpapercave.com/wp/6MCAlS9.png);
+  background-size: 150px 100px;
+}
+
+#prev{
+  padding: 10px;
+  height: 100px;
+  width: 150px;
+  border-radius: 10px;
+  font-size: 20px;
+  background-image: url(http://wallpapercave.com/wp/OnIKu9N.jpg);
+  background-size: 150px 100px;
+}
+
